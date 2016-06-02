@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Assets.october
+namespace Assets.git
 {
     public interface IControllable : IViewpoint
     {

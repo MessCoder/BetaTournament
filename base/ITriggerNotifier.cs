@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Assets.october
+namespace Assets.git
 {
     public delegate void TriggerReaction(float newValue, float difference);
     public delegate void VectorUpdateReaction(Vector3 newValue);

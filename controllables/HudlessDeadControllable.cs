@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using UnityEngine;
 
-namespace Assets.october.controllables
+namespace Assets.git.controllables
 {
     public abstract class HudlessDeadControllable : DeadControllable
     {

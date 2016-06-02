@@ -1,10 +1,10 @@
 ﻿
-using Assets.october.controllables.abilities;
-using Assets.october.viewpoints;
+using Assets.git.controllables.abilities;
+using Assets.git.viewpoints;
 using System;
 using UnityEngine;
 
-namespace Assets.october.hudComponents
+namespace Assets.git.hudComponents
 {
     public partial class WeaponManagerHudComponent : HudComponent
     {

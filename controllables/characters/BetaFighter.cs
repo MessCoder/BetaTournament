@@ -1,11 +1,11 @@
-﻿using Assets.october.controllables.abilities;
+﻿using Assets.git.controllables.abilities;
 using System.Linq;
 using UnityEngine;
 using System.Collections;
 using System;
-using Assets.october.viewpoints;
+using Assets.git.viewpoints;
 
-namespace Assets.october.controllables.characters
+namespace Assets.git.controllables.characters
 {
     [RequireComponent(typeof(CharDestructible))]
     [RequireComponent(typeof(Levitator))]

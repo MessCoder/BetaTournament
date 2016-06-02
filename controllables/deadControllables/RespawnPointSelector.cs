@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace Assets.october.controllables.deadControllables
+namespace Assets.git.controllables.deadControllables
 {
     public class RespawnPointSelector : HudlessDeadControllable
     { 

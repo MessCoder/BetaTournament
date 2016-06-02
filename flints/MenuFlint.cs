@@ -1,8 +1,8 @@
 ﻿using System;
-using Assets.october.controllables;
+using Assets.git.controllables;
 using UnityEngine;
 
-namespace Assets.october.flints
+namespace Assets.git.flints
 {
     /// <summary>
     /// Initializes a menu scene of the game

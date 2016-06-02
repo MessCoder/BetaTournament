@@ -1,11 +1,11 @@
 ﻿using System;
 
-using Assets.october.controllables;
+using Assets.git.controllables;
 
 using UnityEngine;
-using Assets.october.controllables.deadControllables;
+using Assets.git.controllables.deadControllables;
 
-namespace Assets.october
+namespace Assets.git
 {
     public class IngameManager : MonoBehaviour
     {

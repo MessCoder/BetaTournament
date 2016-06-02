@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Assets.october.viewpoints
+namespace Assets.git.viewpoints
 {
     [RequireComponent(typeof(Camera))]
     public class Hud : Viewpoint

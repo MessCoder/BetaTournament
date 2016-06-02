@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using UnityEngine;
 
-namespace Assets.october
+namespace Assets.git
 {
     public class Explosion : MonoBehaviour
     {

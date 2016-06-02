@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-namespace Assets.october
+namespace Assets.git
 {
     public abstract class Weapon : MonoBehaviour
     {

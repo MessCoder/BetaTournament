@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using Assets.october.viewpoints;
+using Assets.git.viewpoints;
 using UnityEngine;
 
-namespace Assets.october.hudComponents
+namespace Assets.git.hudComponents
 {
     public class UIHudComponent : HudComponent
     {

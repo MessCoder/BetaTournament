@@ -1,8 +1,8 @@
-﻿using Assets.october.controllers;
+﻿using Assets.git.controllers;
 using System;
 using UnityEngine;
 
-namespace Assets.october
+namespace Assets.git
 {
     [Serializable]
     public class User : IPlayer

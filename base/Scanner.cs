@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-namespace Assets.october
+namespace Assets.git
 {
     public class Scanner : MonoBehaviour
     {

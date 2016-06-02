@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace Assets.october.flints
+namespace Assets.git.flints
 {
     /// <summary>
     /// Initializes a game session in a game map scene

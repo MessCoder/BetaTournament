@@ -3,7 +3,7 @@ using System.Text;
 
 using UnityEngine;
 
-namespace Assets.october
+namespace Assets.git
 {
     [Serializable]
     public class TriggerPack : MonoBehaviour, ITriggerNotifier

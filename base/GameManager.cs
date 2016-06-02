@@ -1,8 +1,8 @@
-﻿using Assets.october.controllables;
+﻿using Assets.git.controllables;
 
 using UnityEngine;
 
-namespace Assets.october
+namespace Assets.git
 {
     // This singleton can't be accessed before GameManager's Awake method is called
     // That should be the first Awake method to be called, you can edit the order of 

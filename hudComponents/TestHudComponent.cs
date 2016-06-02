@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using UnityEngine;
 
-namespace Assets.october.hudComponents
+namespace Assets.git.hudComponents
 {
     public class TestHudComponent : HudComponent
     {

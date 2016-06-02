@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Assets.october.viewpoints
+namespace Assets.git.viewpoints
 {
     public class HudEnabledViewpoint : Viewpoint
     {

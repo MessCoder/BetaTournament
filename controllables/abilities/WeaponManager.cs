@@ -1,10 +1,10 @@
-﻿using Assets.october.hudComponents;
+﻿using Assets.git.hudComponents;
 using System;
 using System.Collections;
 
 using UnityEngine;
 
-namespace Assets.october.controllables.abilities
+namespace Assets.git.controllables.abilities
 {
     public class WeaponManager : MonoBehaviour
     {

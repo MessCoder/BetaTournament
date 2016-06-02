@@ -1,11 +1,11 @@
-﻿using Assets.october.controllables.abilities;
+﻿using Assets.git.controllables.abilities;
 using System.Collections;
 using UnityEngine;
 using System;
-using Assets.october.hudComponents;
-using Assets.october.viewpoints;
+using Assets.git.hudComponents;
+using Assets.git.viewpoints;
 
-namespace Assets.october.controllables.characters
+namespace Assets.git.controllables.characters
 {
     [RequireComponent(typeof(VelocityApplier))]
     [RequireComponent(typeof(Destructible))]

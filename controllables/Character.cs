@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Assets.october.controllables
+namespace Assets.git.controllables
 {
     public abstract class Character : Controllable
     {

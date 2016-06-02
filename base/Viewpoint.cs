@@ -2,7 +2,7 @@
 
 using UnityEngine;
 
-namespace Assets.october
+namespace Assets.git
 {
     [RequireComponent(typeof(Camera))]
     public class Viewpoint : MonoBehaviour, IViewpoint

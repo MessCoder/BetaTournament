@@ -5,7 +5,7 @@ using System.Text;
 
 using UnityEngine;
 
-namespace Assets.october.controllables.abilities
+namespace Assets.git.controllables.abilities
 {
     [RequireComponent(typeof(Rigidbody))]
     class Levitator : MovementAbility

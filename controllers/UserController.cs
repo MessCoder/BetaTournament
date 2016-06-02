@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Assets.october.controllers
+namespace Assets.git.controllers
 {
     public class UserController : Controller
     {

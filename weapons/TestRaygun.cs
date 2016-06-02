@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using UnityEngine;
 
-namespace Assets.october.weapons
+namespace Assets.git.weapons
 {
     [RequireComponent(typeof(LineRenderer))]
     public class TestRaygun : Weapon

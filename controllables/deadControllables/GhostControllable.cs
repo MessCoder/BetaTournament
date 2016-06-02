@@ -1,9 +1,9 @@
-﻿using Assets.october.controllables.abilities;
+﻿using Assets.git.controllables.abilities;
 using System;
 
 using UnityEngine;
 
-namespace Assets.october.controllables.deadControllables
+namespace Assets.git.controllables.deadControllables
 {
     [RequireComponent(typeof(VelocityApplier))]
     public class GhostControllable : HudlessDeadControllable

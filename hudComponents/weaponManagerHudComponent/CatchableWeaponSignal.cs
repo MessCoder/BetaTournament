@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections;
-using Assets.october.viewpoints;
+using Assets.git.viewpoints;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Assets.october.hudComponents
+namespace Assets.git.hudComponents
 {
     [Serializable]
     internal class CatchableWeaponSignal : UIHudComponent // Even though it's not directly use by a hud, I want the inheritance and consistency

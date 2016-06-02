@@ -5,7 +5,7 @@ using System.Text;
 
 using UnityEngine;
 
-namespace Assets.october.controllables.abilities
+namespace Assets.git.controllables.abilities
 {
     public abstract class MovementAbility : MonoBehaviour
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using UnityEngine;
 
-namespace Assets.october.flints
+namespace Assets.git.flints
 {
     /// <summary>
     /// Flints are used to setup scenes to work, whether or not 

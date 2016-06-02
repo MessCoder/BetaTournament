@@ -1,9 +1,9 @@
-﻿using Assets.october.viewpoints;
+﻿using Assets.git.viewpoints;
 using System;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Assets.october.controllables.ingameMenus
+namespace Assets.git.controllables.ingameMenus
 {
     public class TestIngameMenu : IngameMenu
     {

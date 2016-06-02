@@ -1,9 +1,9 @@
-﻿using Assets.october.viewpoints;
+﻿using Assets.git.viewpoints;
 using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Assets.october
+namespace Assets.git
 {
     public class HudComponent : MonoBehaviour
     {

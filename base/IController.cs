@@ -1,4 +1,4 @@
-﻿namespace Assets.october
+﻿namespace Assets.git
 {
     public interface IController : ITriggerNotifier
     {

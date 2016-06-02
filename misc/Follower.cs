@@ -5,7 +5,7 @@ using System.Text;
 
 using UnityEngine;
 
-namespace Assets.october
+namespace Assets.git
 {
     public class Follower : MonoBehaviour
     {

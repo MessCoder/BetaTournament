@@ -2,7 +2,7 @@
 
 using UnityEngine;
 
-namespace Assets.october.controllers
+namespace Assets.git.controllers
 {
     public abstract class Controller : TriggerPack, IController
     {

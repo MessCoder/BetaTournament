@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace Assets.october
+namespace Assets.git
 {
     public interface IViewpoint
     {
