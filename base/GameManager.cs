@@ -27,7 +27,7 @@ namespace Assets.git
         }
         
         [SerializeField]
-        private string[] _gameMapNames;
+        private string[] _gameMapNames = null;
         public static string[] gameMapNames
         {
             get { return instance._gameMapNames; }

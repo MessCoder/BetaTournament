@@ -17,7 +17,7 @@ namespace Assets.git.controllables.characters
         WeaponManager weaponManager;
 
         [SerializeField]
-        FighterViewpoint _viewpoint;
+        FighterViewpoint _viewpoint = null;
         protected override Viewpoint viewpoint { get { return _viewpoint; } }
 
         private IController _controller;
